@@ -1,3 +1,6 @@
-console.log("Hello world");
-console.log("hello user");
+import { setupServer } from "./server.js";
+
+setupServer();
+
+
 
